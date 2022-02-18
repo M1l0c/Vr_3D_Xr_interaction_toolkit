@@ -539,3 +539,4 @@ Received Import Request.
 Start importing Assets/XRI/Settings/Resources/InteractionLayerSettings.asset using Guid(2b7253cecbf941144a3966629e3512f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e9366a837df60113269e740057488e') in 0.023541 seconds 
   Import took 0.028458 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
