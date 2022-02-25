@@ -14,7 +14,7 @@ public class GrabColorchanges : MonoBehaviour
 
     private void Awake()
     {
-        gameObject.GetComponent<MeshRenderer>();
+        meshRenderer = gameObject.GetComponent<MeshRenderer>();
        // grabInteractable = gameObject.GetComponent<XRGrabInteractable>();
         //grabInteractable.onActivate.AddListener(SetColor(PinkColor));
         //grabInteractable.onActivate.AddListener(SetColor(GrayColor));
